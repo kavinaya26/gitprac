@@ -7,3 +7,8 @@ This change is from merge-practice
 
 
 This change is from MASTER AGAIN
+This change is from REBASE
+
+CHANGE MADE ON GITHUB
+
+This change will be submitted through a Pull Request
