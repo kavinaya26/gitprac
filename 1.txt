@@ -1,2 +1,4 @@
 Hello Git - MASTER
 Hello Git - FEATURE
+
+This change is from MASTER
